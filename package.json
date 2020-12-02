@@ -1,4 +1,3 @@
-// heroku needs a package file
 {
   "name": "helloapp",
   "version": "1.0.0",
